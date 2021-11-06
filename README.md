@@ -3,7 +3,7 @@ Reto
 
 Para poder probar la solución,  deben tener las siguientes consideraciones:
 
-# 1. CLONE GIT
+# 1. GIT
 
 - Clonar desde la rama master
 - git clone -b master https://github.com/ataquiri7789/Backend-Technical-Test.git
