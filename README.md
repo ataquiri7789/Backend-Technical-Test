@@ -12,6 +12,7 @@ Para poder probar la solución,  deben tener las siguientes consideraciones:
 
 - Instalar docker
 - Descargar SQLServer: docker pull mcr.microsoft.com/mssql/server:2019-latest
+- Crear una carpeta en el disco C: "C:\docker".
 - Guardar con volumen: docker run -e "ACCEPT_EULA=Y" --network bridge -v c:/docker/sqlserver/data:/var/opt/mssql/data -v c:/docker/sqlserver/log:/var/opt/mssql/log -v c:/docker/sqlserver/secrets:/var/opt/mssql/secrets -e "SA_PASSWORD=Testing34#" -p 1433:1433 --name sql-database -d mcr.microsoft.com/mssql/server:2019-latest
 
 
