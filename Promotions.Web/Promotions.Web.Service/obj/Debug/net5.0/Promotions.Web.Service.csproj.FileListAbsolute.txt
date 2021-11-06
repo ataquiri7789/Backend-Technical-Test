@@ -1,0 +1,17 @@
+C:\Users\omart\source\repos\Promotions.Web\Promotions.Web.Service\bin\Debug\net5.0\Promotions.Web.Service.deps.json
+C:\Users\omart\source\repos\Promotions.Web\Promotions.Web.Service\bin\Debug\net5.0\Promotions.Web.Service.dll
+C:\Users\omart\source\repos\Promotions.Web\Promotions.Web.Service\bin\Debug\net5.0\ref\Promotions.Web.Service.dll
+C:\Users\omart\source\repos\Promotions.Web\Promotions.Web.Service\bin\Debug\net5.0\Promotions.Web.Service.pdb
+C:\Users\omart\source\repos\Promotions.Web\Promotions.Web.Service\obj\Debug\net5.0\Promotions.Web.Service.csprojAssemblyReference.cache
+C:\Users\omart\source\repos\Promotions.Web\Promotions.Web.Service\obj\Debug\net5.0\Promotions.Web.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omart\source\repos\Promotions.Web\Promotions.Web.Service\obj\Debug\net5.0\Promotions.Web.Service.AssemblyInfoInputs.cache
+C:\Users\omart\source\repos\Promotions.Web\Promotions.Web.Service\obj\Debug\net5.0\Promotions.Web.Service.AssemblyInfo.cs
+C:\Users\omart\source\repos\Promotions.Web\Promotions.Web.Service\obj\Debug\net5.0\Promotions.Web.Service.csproj.CoreCompileInputs.cache
+C:\Users\omart\source\repos\Promotions.Web\Promotions.Web.Service\obj\Debug\net5.0\Promotions.Web.Service.dll
+C:\Users\omart\source\repos\Promotions.Web\Promotions.Web.Service\obj\Debug\net5.0\ref\Promotions.Web.Service.dll
+C:\Users\omart\source\repos\Promotions.Web\Promotions.Web.Service\obj\Debug\net5.0\Promotions.Web.Service.pdb
+C:\Users\omart\source\repos\Promotions.Web\Promotions.Web.Service\bin\Debug\net5.0\Promotions.Cross.Proxy.dll
+C:\Users\omart\source\repos\Promotions.Web\Promotions.Web.Service\bin\Debug\net5.0\Promotions.Web.DTO.dll
+C:\Users\omart\source\repos\Promotions.Web\Promotions.Web.Service\bin\Debug\net5.0\Promotions.Cross.Proxy.pdb
+C:\Users\omart\source\repos\Promotions.Web\Promotions.Web.Service\bin\Debug\net5.0\Promotions.Web.DTO.pdb
+C:\Users\omart\source\repos\Promotions.Web\Promotions.Web.Service\obj\Debug\net5.0\Promotions.Web.Service.csproj.CopyComplete

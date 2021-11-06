@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Promotions.Web.UI", "Promotions.Web\Promotions.Web.UI.csproj", "{70D15B94-CB47-4B5F-BD7F-28D533B83B8D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Cross", "Cross", "{B80207F8-17C0-4B87-B40C-BC883C7D74DE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{956F79CB-0C0A-4A56-A07D-6D5809347FF4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Promotions.Web.DTO", "Promotions.Web.DTO\Promotions.Web.DTO.csproj", "{FD52CD07-3DDA-4E60-9313-66BF74EA090E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Promotions.Web.Service", "Promotions.Web.Service\Promotions.Web.Service.csproj", "{EC34394D-CC37-471C-9BED-7C0A3AE35728}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Promotions.Cross.Proxy", "Promotions.Cross.Proxy\Promotions.Cross.Proxy.csproj", "{B2B8FBE5-62EF-432B-89DF-06C731E920B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70D15B94-CB47-4B5F-BD7F-28D533B83B8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70D15B94-CB47-4B5F-BD7F-28D533B83B8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70D15B94-CB47-4B5F-BD7F-28D533B83B8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70D15B94-CB47-4B5F-BD7F-28D533B83B8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD52CD07-3DDA-4E60-9313-66BF74EA090E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD52CD07-3DDA-4E60-9313-66BF74EA090E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD52CD07-3DDA-4E60-9313-66BF74EA090E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD52CD07-3DDA-4E60-9313-66BF74EA090E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC34394D-CC37-471C-9BED-7C0A3AE35728}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC34394D-CC37-471C-9BED-7C0A3AE35728}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC34394D-CC37-471C-9BED-7C0A3AE35728}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC34394D-CC37-471C-9BED-7C0A3AE35728}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2B8FBE5-62EF-432B-89DF-06C731E920B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2B8FBE5-62EF-432B-89DF-06C731E920B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2B8FBE5-62EF-432B-89DF-06C731E920B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2B8FBE5-62EF-432B-89DF-06C731E920B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{70D15B94-CB47-4B5F-BD7F-28D533B83B8D} = {956F79CB-0C0A-4A56-A07D-6D5809347FF4}
+		{FD52CD07-3DDA-4E60-9313-66BF74EA090E} = {956F79CB-0C0A-4A56-A07D-6D5809347FF4}
+		{EC34394D-CC37-471C-9BED-7C0A3AE35728} = {956F79CB-0C0A-4A56-A07D-6D5809347FF4}
+		{B2B8FBE5-62EF-432B-89DF-06C731E920B6} = {B80207F8-17C0-4B87-B40C-BC883C7D74DE}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5AB01AE-3820-4C13-BEFA-4ACA02843899}
+	EndGlobalSection
+EndGlobal

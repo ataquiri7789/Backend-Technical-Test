@@ -1,0 +1,12 @@
+C:\Users\omart\source\repos\Promotions.Web\Promotions.Cross.Proxy\bin\Debug\net5.0\Promotions.Cross.Proxy.deps.json
+C:\Users\omart\source\repos\Promotions.Web\Promotions.Cross.Proxy\bin\Debug\net5.0\Promotions.Cross.Proxy.dll
+C:\Users\omart\source\repos\Promotions.Web\Promotions.Cross.Proxy\bin\Debug\net5.0\ref\Promotions.Cross.Proxy.dll
+C:\Users\omart\source\repos\Promotions.Web\Promotions.Cross.Proxy\bin\Debug\net5.0\Promotions.Cross.Proxy.pdb
+C:\Users\omart\source\repos\Promotions.Web\Promotions.Cross.Proxy\obj\Debug\net5.0\Promotions.Cross.Proxy.csprojAssemblyReference.cache
+C:\Users\omart\source\repos\Promotions.Web\Promotions.Cross.Proxy\obj\Debug\net5.0\Promotions.Cross.Proxy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omart\source\repos\Promotions.Web\Promotions.Cross.Proxy\obj\Debug\net5.0\Promotions.Cross.Proxy.AssemblyInfoInputs.cache
+C:\Users\omart\source\repos\Promotions.Web\Promotions.Cross.Proxy\obj\Debug\net5.0\Promotions.Cross.Proxy.AssemblyInfo.cs
+C:\Users\omart\source\repos\Promotions.Web\Promotions.Cross.Proxy\obj\Debug\net5.0\Promotions.Cross.Proxy.csproj.CoreCompileInputs.cache
+C:\Users\omart\source\repos\Promotions.Web\Promotions.Cross.Proxy\obj\Debug\net5.0\Promotions.Cross.Proxy.dll
+C:\Users\omart\source\repos\Promotions.Web\Promotions.Cross.Proxy\obj\Debug\net5.0\ref\Promotions.Cross.Proxy.dll
+C:\Users\omart\source\repos\Promotions.Web\Promotions.Cross.Proxy\obj\Debug\net5.0\Promotions.Cross.Proxy.pdb

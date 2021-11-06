@@ -1,0 +1,12 @@
+C:\Users\omart\source\repos\Promotions.Web\Promotions.Web.DTO\bin\Debug\net5.0\Promotions.Web.DTO.deps.json
+C:\Users\omart\source\repos\Promotions.Web\Promotions.Web.DTO\bin\Debug\net5.0\Promotions.Web.DTO.dll
+C:\Users\omart\source\repos\Promotions.Web\Promotions.Web.DTO\bin\Debug\net5.0\ref\Promotions.Web.DTO.dll
+C:\Users\omart\source\repos\Promotions.Web\Promotions.Web.DTO\bin\Debug\net5.0\Promotions.Web.DTO.pdb
+C:\Users\omart\source\repos\Promotions.Web\Promotions.Web.DTO\obj\Debug\net5.0\Promotions.Web.DTO.csprojAssemblyReference.cache
+C:\Users\omart\source\repos\Promotions.Web\Promotions.Web.DTO\obj\Debug\net5.0\Promotions.Web.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omart\source\repos\Promotions.Web\Promotions.Web.DTO\obj\Debug\net5.0\Promotions.Web.DTO.AssemblyInfoInputs.cache
+C:\Users\omart\source\repos\Promotions.Web\Promotions.Web.DTO\obj\Debug\net5.0\Promotions.Web.DTO.AssemblyInfo.cs
+C:\Users\omart\source\repos\Promotions.Web\Promotions.Web.DTO\obj\Debug\net5.0\Promotions.Web.DTO.csproj.CoreCompileInputs.cache
+C:\Users\omart\source\repos\Promotions.Web\Promotions.Web.DTO\obj\Debug\net5.0\Promotions.Web.DTO.dll
+C:\Users\omart\source\repos\Promotions.Web\Promotions.Web.DTO\obj\Debug\net5.0\ref\Promotions.Web.DTO.dll
+C:\Users\omart\source\repos\Promotions.Web\Promotions.Web.DTO\obj\Debug\net5.0\Promotions.Web.DTO.pdb
