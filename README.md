@@ -34,6 +34,9 @@ Para poder probar la solución,  deben tener las siguientes consideraciones:
 - Finalmente ejecutar el proyecto "Promotions.Web".
 
 
+
+
+
 Muchas gracias por su tiempo.
 
 Saludos.
