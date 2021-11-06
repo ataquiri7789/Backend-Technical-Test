@@ -21,7 +21,7 @@ Para poder probar la solución,  deben tener las siguientes consideraciones:
 - Restaurar el archivo dbo.sql
 
 
-# 4. Considerations
+# 4. Solutions
 
 - SOLUCIÓN ManagePromotions: API Desarrollada en NET Core 5 - Arquitectura N Capas
 
